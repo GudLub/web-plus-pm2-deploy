@@ -1,3 +1,5 @@
 # Деплой приложения на сервер с использованием pm2
 
-Стартеркит проекта по автоматизации деплоя фронтенда и бэкенда при помощи pm2 (pm2 deploy)
+ip адресс 158.160.176.15
+frontend https://gudlub.nomorepartiesco.ru/
+backend https://api.gudlub.nomorepartiesco.ru/
